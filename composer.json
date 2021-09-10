@@ -1,6 +1,6 @@
 {
-    "name": "providr-packages/package-7562",
-    "description": "Package generated from main.wsdl using wsdltophp/packagegenerator",
+    "name": "Sport Events Istanbul",
+    "description": "events.istanbul wsdl client",
     "require": {
         "php": ">=5.3.3",
         "ext-soap": "*",
