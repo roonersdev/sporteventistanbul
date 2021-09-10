@@ -1,5 +1,5 @@
 {
-    "name": "SportEventsIstanbul",
+    "name": "sport-events-istanbul",
     "description": "events.istanbul wsdl client",
     "require": {
         "php": ">=5.3.3",
