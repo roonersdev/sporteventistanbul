@@ -1,5 +1,5 @@
 {
-    "name": "mustafakarali/sporteventistanbul",
+    "name": "roonersdev/sporteventistanbul",
     "description": "events.istanbul wsdl client",
     "require": {
         "php": ">=5.3.3",
